@@ -1,3 +1,3 @@
-# Nebot
+# Nesbot
 
 A very simple chatbot.
